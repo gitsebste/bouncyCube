@@ -1,0 +1,7 @@
+#Mon Dec 25 18:44:12 CET 2017
+base.0=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_71c4167b8be023c3f58bc059a205e4b97e15c46e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d687c734167e7554f96977b784e276ed7ddf7204\\classes.dex
+base.1=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d687c734167e7554f96977b784e276ed7ddf7204
+file.0=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_71c4167b8be023c3f58bc059a205e4b97e15c46e\\classes.dex

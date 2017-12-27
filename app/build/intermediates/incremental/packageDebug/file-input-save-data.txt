@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Dec 25 18:44:12 CET 2017
+2.base=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d687c734167e7554f96977b784e276ed7ddf7204
+5.file=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_71c4167b8be023c3f58bc059a205e4b97e15c46e
+2.set=DEX
+4.base=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d687c734167e7554f96977b784e276ed7ddf7204\\classes.dex
+0.base=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_71c4167b8be023c3f58bc059a205e4b97e15c46e\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\device02\\Documents\\AndroidStudioProjects\\BouncyCube\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.set=ANDROID_RESOURCE
